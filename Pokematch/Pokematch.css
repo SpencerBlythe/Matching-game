@@ -1,0 +1,33 @@
+body {
+    background: url("https://wallpaperaccess.com/full/8613.png");
+    background-size: cover;
+    font-family: 'Press Start 2P', cursive;;
+    text-align: center;
+}
+
+#board {
+    height: 632px;
+    width: 575px;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: whitesmoke;
+    border: 10px solid rgb(201, 0, 0);
+}
+
+.card {
+    height: 148px;
+    width: 110px;
+    margin: 2.5px;
+}
+
+h1{
+    font-size: 50px;
+    color: yellow;
+    text-shadow: 5px 5px blue;
+}
+
+h2{
+    color: yellow;
+    text-shadow: 5px 5px blue;
+}
